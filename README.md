@@ -1,6 +1,6 @@
 # Alurabooks(Preço)
 
-Olá, Bem vindo ao projeto Alurabooks(Preço). Este projeto foi criado no curso de JS da Alura.
+Este projeto foi criado em um dos cursos de JS da Alura.
 
 ## URL no Vercel: https://alurbooks-preco.vercel.app/
 
